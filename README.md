@@ -1,17 +1,19 @@
 # CN-AI-Trainer
+
 # 国家职业技能认证 - 人工智能训练师(三级) 理论知识库整理
 
-> 个人考证，整理相关的理论知识库，内容来自OPEN AI GPT,Google Gemini,Perplexity 等AI智能体，**不确保知识库完全准确**
+> 个人考证过程，学习相关理论知识点，整理相关的理论知识库，内容来自 OPEN AI GPT, Google Gemini, Perplexity 等 AI 智能体。
+> PS : 本知识库整理过程，也是学习过程，仅供参考，如有错误，欢迎指正和补充。 **不确保知识库完全准确**
 
 ## 理论知识篇章
 
-| 序号 | 章节         | 链接                                                 |
-| ---- | ------------ | ---------------------------------------------------- |
-| 1    | 训练模型分类 | [1.ModelClassification.md](1.ModelClassification.md) |
-|2    | 逻辑回归与线性回归 | [2.Logistic&Linear.md](2.Logistic&Linear.md)|
-|3    |统计检验方法比较|[3.Statistical-Test-Methods.md](3.Statistical-Test-Methods.md)|
-|4    | 统计分析的分类 |[4.Classification-of-statistical-analysis.md](4.Classification-of-statistical-analysis.md)|
-|5    | 软件生命周期模型  |[5.Software-Lifecycle-Model.md](5.Software-Lifecycle-Model.md)|
-|6    | HMM声建模型      |[6.HMM-acoustic-model.md](6.HMM-acoustic-model.md)|
-|7    |卷积与解卷积  | [7.Convolution-and-deconvolution.md](7.Convolution-and-deconvolution.md)|
-|8    | 文本特征提取方法 | [8.Methods-of-text-annotation.md](8.Methods-of-text-annotation.md)|
+| 序号 | 章节               | 链接                                                                                       |
+| ---- | ------------------ | ------------------------------------------------------------------------------------------ |
+| 1    | 训练模型分类       | [1.ModelClassification.md](1.ModelClassification.md)                                       |
+| 2    | 逻辑回归与线性回归 | [2.Logistic&Linear.md](2.Logistic&Linear.md)                                               |
+| 3    | 统计检验方法比较   | [3.Statistical-Test-Methods.md](3.Statistical-Test-Methods.md)                             |
+| 4    | 统计分析的分类     | [4.Classification-of-statistical-analysis.md](4.Classification-of-statistical-analysis.md) |
+| 5    | 软件生命周期模型   | [5.Software-Lifecycle-Model.md](5.Software-Lifecycle-Model.md)                             |
+| 6    | HMM 声建模型       | [6.HMM-acoustic-model.md](6.HMM-acoustic-model.md)                                         |
+| 7    | 卷积与解卷积       | [7.Convolution-and-deconvolution.md](7.Convolution-and-deconvolution.md)                   |
+| 8    | 文本特征提取方法   | [8.Methods-of-text-annotation.md](8.Methods-of-text-annotation.md)                         |
