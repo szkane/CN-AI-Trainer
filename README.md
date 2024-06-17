@@ -5,5 +5,6 @@
 
 ## 理论知识篇章
 
-|序号|章节|链接|
-|1|训练模型分类| [1.ModelClassification.md](1.ModelClassification.md)|
+| 序号 | 章节         | 链接                                                 |
+| ---- | ------------ | ---------------------------------------------------- |
+| 1    | 训练模型分类 | [1.ModelClassification.md](1.ModelClassification.md) |
