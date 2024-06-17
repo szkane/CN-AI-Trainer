@@ -17,3 +17,4 @@
 | 6    | HMM 声建模型       | [6.HMM-acoustic-model.md](6.HMM-acoustic-model.md)                                         |
 | 7    | 卷积与解卷积       | [7.Convolution-and-deconvolution.md](7.Convolution-and-deconvolution.md)                   |
 | 8    | 文本特征提取方法   | [8.Methods-of-text-annotation.md](8.Methods-of-text-annotation.md)                         |
+| 9    | 数据标注质量评估   | [9.Annotation-Quality.md](9.Annotation-Quality.md)                                         |
