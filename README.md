@@ -11,7 +11,7 @@
 |2    | 逻辑回归与线性回归 | [2.Logistic&Linear.md](2.Logistic&Linear.md)|
 |3    |统计检验方法比较|[3.Statistical-Test-Methods.md](3.Statistical-Test-Methods.md)|
 |4    | 统计分析的分类 |[4.Classification-of-statistical-analysis.md](4.Classification-of-statistical-analysis.md)|
-|5    | 软件生命周期模型|[5.Software-Lifecycle-Model.md](5.Software-Lifecycle-Model.md)|
-|6    | HMM声建模型 |[6.HMM-acoustic-model.md](6.HMM-acoustic-model.md)|
-|7    |卷积与解卷积｜[7.Convolution-and-deconvolution.md](7.Convolution-and-deconvolution.md)|
-|8  | 文本特征提取方法 | [8.Methods-of-text-annotation.md](8.Methods-of-text-annotation.md)|
+|5    | 软件生命周期模型  |[5.Software-Lifecycle-Model.md](5.Software-Lifecycle-Model.md)|
+|6    | HMM声建模型      |[6.HMM-acoustic-model.md](6.HMM-acoustic-model.md)|
+|7    |卷积与解卷积  | [7.Convolution-and-deconvolution.md](7.Convolution-and-deconvolution.md)|
+|8    | 文本特征提取方法 | [8.Methods-of-text-annotation.md](8.Methods-of-text-annotation.md)|
