@@ -7,14 +7,17 @@
 
 ## 理论知识篇章
 
-| 序号 | 章节               | 链接                                                                                       |
-| ---- | ------------------ | ------------------------------------------------------------------------------------------ |
-| 1    | 训练模型分类       | [1.ModelClassification.md](1.ModelClassification.md)                                       |
-| 2    | 逻辑回归与线性回归 | [2.Logistic&Linear.md](2.Logistic&Linear.md)                                               |
-| 3    | 统计检验方法比较   | [3.Statistical-Test-Methods.md](3.Statistical-Test-Methods.md)                             |
-| 4    | 统计分析的分类     | [4.Classification-of-statistical-analysis.md](4.Classification-of-statistical-analysis.md) |
-| 5    | 软件生命周期模型   | [5.Software-Lifecycle-Model.md](5.Software-Lifecycle-Model.md)                             |
-| 6    | HMM 声建模型       | [6.HMM-acoustic-model.md](6.HMM-acoustic-model.md)                                         |
-| 7    | 卷积与解卷积       | [7.Convolution-and-deconvolution.md](7.Convolution-and-deconvolution.md)                   |
-| 8    | 文本特征提取方法   | [8.Methods-of-text-annotation.md](8.Methods-of-text-annotation.md)                         |
-| 9    | 数据标注质量评估   | [9.Annotation-Quality.md](9.Annotation-Quality.md)                                         |
+| 序号 | 章节                     | 链接                                                                                       |
+| ---- | ------------------------ | ------------------------------------------------------------------------------------------ |
+| 1    | 训练模型分类             | [1.ModelClassification.md](1.ModelClassification.md)                                       |
+| 2    | 逻辑回归与线性回归       | [2.Logistic&Linear.md](2.Logistic&Linear.md)                                               |
+| 3    | 统计检验方法比较         | [3.Statistical-Test-Methods.md](3.Statistical-Test-Methods.md)                             |
+| 4    | 统计分析的分类           | [4.Classification-of-statistical-analysis.md](4.Classification-of-statistical-analysis.md) |
+| 5    | 软件生命周期模型         | [5.Software-Lifecycle-Model.md](5.Software-Lifecycle-Model.md)                             |
+| 6    | HMM 声建模型             | [6.HMM-acoustic-model.md](6.HMM-acoustic-model.md)                                         |
+| 7    | 卷积与解卷积             | [7.Convolution-and-deconvolution.md](7.Convolution-and-deconvolution.md)                   |
+| 8    | 文本特征提取方法         | [8.Methods-of-text-annotation.md](8.Methods-of-text-annotation.md)                         |
+| 9    | 数据标注质量评估         | [9.Annotation-Quality.md](9.Annotation-Quality.md)                                         |
+| 10   | 训练集中的类别不平衡问题 | [10.Imbalanced-training-set.md](10.Imbalanced-training-set.md)                             |
+| 11   | 数据集划分方法           | [11.Dataset-partitioning-method.md](11.Dataset-partitioning-method.md)                     |
+| 12   | 训练模型过拟合问题       | [12.Model-overfitting.md](12.Model-overfitting.md)                                         |
