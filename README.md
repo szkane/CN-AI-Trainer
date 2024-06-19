@@ -21,3 +21,4 @@
 | 10   | 训练集中的类别不平衡问题         | [10.Imbalanced-training-set.md](10.Imbalanced-training-set.md)                              |
 | 11   | 数据集划分方法                   | [11.Dataset-partitioning-method.md](11.Dataset-partitioning-method.md)                      |
 | 12   | 降低泛化误差，提高模型的泛化能力 | [12.Model-overfitting.md](12.Model-overfitting.md)                                          |
+| 13   | 标注的方法                       | [13.Annotation-methods.md](13.Annotation-methods.md)                                        |
